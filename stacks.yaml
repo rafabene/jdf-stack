@@ -1406,7 +1406,7 @@ availableRuntimes:
     - *gatein-3_5-bom-jpp6
    defaultBom: *gatein-3_5-bom-jpp6
    defaultArchetype: 
-   archetypes:
+   archetypes: {}
    labels: {
         runtime-category: SERVER,
         runtime-type: JPP,
